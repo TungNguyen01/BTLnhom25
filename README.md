@@ -1,4 +1,8 @@
 # HotelMenager
+Thành viên trong nhóm:
+
+Nguyễn Sơn Tùng(nhóm trưởng)
+
 Phạm Xuân Trường
 
 Trần Bảo Anh
